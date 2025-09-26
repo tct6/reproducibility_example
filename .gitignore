@@ -73,3 +73,10 @@ rsconnect/
 # *.pdf
 # *.png
 # *.tif
+
+# .gitignore for git projects containing SAS files
+
+# SAS dataset and output files
+*.sas7bdat
+*.lst
+*.log
